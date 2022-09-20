@@ -1,5 +1,4 @@
-<?php
-require_once "database/connection.php";
+<!-- Käyttäjän tiedot tietokannasta tämän kautta
 
 // Tänne functiot jotka lisää henkilön, hakee alat jne
 
@@ -21,3 +20,4 @@ require_once "database/connection.php";
 //     $stm=$pdo->prepare($sql);
 //     return $stm->execute($data);
 // }
+ -->

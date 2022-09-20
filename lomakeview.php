@@ -2,6 +2,7 @@
 
 <h2 class="centered">Muokkaa profiilia</h2>
 
+<!-- Lomakkeen koodi. Tähän lisäksi SELECT-toiminnot erikoistumisille (Gruppon tietokannasta) -->
 <!-- <div class="inputarea"> -->
 <form  action="/signup" method="post">
     <label for="name">Etunimi</label> 

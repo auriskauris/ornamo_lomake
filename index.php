@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 session_start();
 set_include_path(dirname(__FILE__) . '/../');
 
@@ -16,4 +16,4 @@ require_once 'controllers/updateManagement.php';
 
         default:
             echo "404";
-}
+} -->
